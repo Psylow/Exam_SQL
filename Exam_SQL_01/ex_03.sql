@@ -1,0 +1,1 @@
+SELECT "Aujourd'hui" , CURDATE();

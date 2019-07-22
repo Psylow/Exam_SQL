@@ -1,0 +1,1 @@
+SELECT "Titre des 12 derniers films" FROM film WHERE id_film=3666, 3667, 3668, 3669, 3670, 3671, 3672, 3673, 3674, 3675, 3676, 3677, 3678, 3679;
